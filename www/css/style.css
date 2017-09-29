@@ -9,5 +9,15 @@ and open the template in the editor.
 */
 
 body { 
-    padding-top: 70px; 
+    padding-top: 50px; 
+}
+
+header.homehead {
+    background: url(../img/ladakh.jpg);
+    min-height: 700px;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
 }
